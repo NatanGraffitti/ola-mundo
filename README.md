@@ -1,2 +1,4 @@
-# ola mundo
- primeiro feito certinho
+# Olá, mundo!
+ Repositório teste criado com aula.
+
+ 
